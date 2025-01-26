@@ -15,3 +15,10 @@ This would be an example of the dynamic residual scaling where $$g(x)$$ is the c
 $$
 y = f(x) + (x * g(x))
 $$
+
+# Visualizations
+## CNN
+![CNN](https://github.com/NoInitRD/Dynamic-Residuals/blob/main/figureDynConv.png)
+
+## Residual Network
+![Residual Network](https://github.com/NoInitRD/Dynamic-Residuals/blob/main/figureDynRes.png)
